@@ -1,0 +1,8 @@
+"""
+测试模块
+
+包含所有单元测试和集成测试。
+"""
+
+__version__ = "1.0.0"
+__author__ = "WechatContentGen Team"
